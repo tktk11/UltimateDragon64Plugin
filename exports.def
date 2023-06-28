@@ -1,0 +1,4 @@
+LIBRARY	"UltimateDragons64"
+EXPORTS
+SKSEPlugin_Query
+SKSEPlugin_Load
